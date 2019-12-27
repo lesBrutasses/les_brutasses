@@ -6766,6 +6766,12 @@ button.bg-light:focus {
   background-color: #f6007d !important;
 }
 
+a.bg-lesbrutassesRose:hover, a.bg-lesbrutassesRose:focus,
+button.bg-lesbrutassesRose:hover,
+button.bg-lesbrutassesRose:focus {
+  background-color: #1d2124 !important;
+}
+
 .bg-dark {
   background-color: #343a40 !important;
 }
