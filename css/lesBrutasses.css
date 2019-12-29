@@ -1,0 +1,64 @@
+
+html {
+  font-family: 'Fontdiner Swanky', cursive;
+}
+
+body {
+  margin: 0;
+  font-family: 'Fontdiner Swanky', cursive;
+}
+
+.bg-lesbrutassesViolet {
+  background-color: #655bc2 !important;
+}
+
+.bg-lesbrutassesRose {
+  background-color: #f6007d !important;
+}
+
+a.bg-lesbrutassesRose:hover, a.bg-lesbrutassesRose:focus,
+button.bg-lesbrutassesRose:hover,
+button.bg-lesbrutassesRose:focus {
+  background-color: #1d2124 !important;
+}
+
+
+.navbar {
+  padding: 1.5rem 1rem;
+}
+
+nav li{
+    display:inline;
+    padding: 0px 70px;
+	font-size : 18px;
+    margin:0;
+    color:white;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+.table .thead-violet th {
+  color: #fff;
+  background-color: #655bc2;
+  border-color: #655bc2;
+}
+
+
+.table .thead-violet th {
+    color: inherit;
+    border-color: #655bc2;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: #f6007d;
+  text-decoration: underline;
+}
+
