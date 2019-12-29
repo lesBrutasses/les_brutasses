@@ -1,3 +1,3 @@
 ---
-layout : main, bertrand
+layout : main
 ---
