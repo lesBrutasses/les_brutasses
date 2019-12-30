@@ -39,7 +39,8 @@ nav li{
 }
 
 .row {
-  margin-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;	
 }
 
 .table .thead-violet th {
@@ -64,4 +65,13 @@ a:hover {
   color: #f6007d;
   text-decoration: underline;
 }
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.nav-left { float: left; }
+.nav-right { float: right; }
 
