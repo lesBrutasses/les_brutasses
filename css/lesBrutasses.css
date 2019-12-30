@@ -1,11 +1,14 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fontdiner Swanky', cursive;
+}
 
 html {
-  font-family: 'Fontdiner Swanky', cursive;
+	font-family: 'Roboto', serif;
 }
 
 body {
   margin: 0;
-  font-family: 'Fontdiner Swanky', cursive;
+  font-family: 'Roboto', serif;
 }
 
 .bg-lesbrutassesViolet {
