@@ -25,6 +25,10 @@ button.bg-lesbrutassesRose:focus {
   background-color: #1d2124 !important;
 }
 
+.specialFont
+{
+	font-family: 'Fontdiner Swanky', cursive;
+}
 
 .navbar {
   padding: 1.5rem 1rem;
